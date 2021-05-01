@@ -7,7 +7,7 @@ const char *networks[][2] =
 {
   //{"network", "password"},
     {"NetworkSSID1", "Password1"},
-	{"NetworkSSID2", "Password2"},
+    {"NetworkSSID2", "Password2"},
     {"NetworkSSID3", "Password3"}
 };
 
